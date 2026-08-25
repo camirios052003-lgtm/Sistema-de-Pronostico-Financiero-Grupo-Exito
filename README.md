@@ -1,2 +1,2 @@
-# Sistema-de-Pronostico-de-Ventas-y-Demanda
-Sistema de pronóstico de ventas y demanda mediante series temporales y Machine Learning, utilizando Python y datos del sector retail.
+# Sistema-de-Pronostico-Financiero-Grupo-Exito
+Desarrollar un sistema de analítica predictiva para analizar y pronosticar indicadores financieros trimestrales de Grupo Éxito, utilizando datos históricos oficiales, series temporales y modelos de Machine Learning.
